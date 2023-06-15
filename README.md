@@ -6,4 +6,4 @@ then type in javascript: and paste all of the text right have javascript: with n
 add bookmark and you should be good to go.. . Enjoy your bookmarklet exploits!
 
 
-I love making these lol
+I love making these..
